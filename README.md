@@ -1,2 +1,4 @@
-# Data Mining
- TDM 10100 The Data Mine I
+# Data Science
+ Data Scence - courework
+ Purdue - TDM 10100 The Data Mine I - coursework
+ 
